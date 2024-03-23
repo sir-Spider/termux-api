@@ -9,6 +9,12 @@ _____                                   _          _
                                              |_|
 ```
 
+# prerequisite 
+
+- install Termux:Api apk
+- pkg install termux-api
+
+# Start
 
 <ol>
  <li><b>termux-wake-lock</li></b> 
