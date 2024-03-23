@@ -9,6 +9,8 @@ _____                                   _          _
                                              |_|
 ```
 
+### Follow github.com/esfelurm
+
 # prerequisite 
 
 - install Termux:Api apk
