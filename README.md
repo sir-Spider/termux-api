@@ -4,7 +4,7 @@
 
 
 <ol>
- <li><h4>termux-wake-lock</li></h3>
+ <li><b>termux-wake-lock</li></b>
 
 ```
 usage: termux-wake-lock
